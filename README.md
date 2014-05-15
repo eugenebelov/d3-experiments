@@ -1,5 +1,8 @@
 ## d3.chart.template
 
+* http://habrahabr.ru/post/189838/
+* http://habrahabr.ru/post/181766/
+
 To get your chart published on the d3.chart [website](http://misoproject.com/d3-chart/charts.html) there are only two requirements:
 
 * You must name your repo in the following format: `d3.chart.*`. For example: `d3.chart.barchart` or `d3.chart.my-epic-chart`. 
