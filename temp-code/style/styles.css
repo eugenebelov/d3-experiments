@@ -1,0 +1,35 @@
+html, body { 
+	height: 100%; margin: 0px; padding: 0px; 
+}
+
+body {
+    font: 18px "Arial";
+}
+
+ul, ol li {
+	font: 14px "Arial";
+}
+
+ul, ol li:hover {
+	color: #7D8CF7;
+}
+
+.mapContainer {
+	width: 100%;
+    height: 100%;
+}
+
+.mapView {
+    width: 100%;
+    height: 100%;
+    background-color: #CCFFCC;
+}
+
+.mapView svg {
+	width: 100%;
+	height: 100%;
+}
+
+.eventsView {
+   background-color: #B9DCFF;
+}
